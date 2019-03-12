@@ -1,4 +1,4 @@
-# bi7a-lesopdracht2-heleklas
+*Master Martijn*
 
-Master: Martijn
-Branch: ArielKomen
+branch: Ariel Komen
+ 
