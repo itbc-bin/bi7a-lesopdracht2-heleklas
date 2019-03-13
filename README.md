@@ -9,7 +9,8 @@ Teun Jakobs
 Sil van Appeldoorn
 Anne Manders
 *Clap* MERGE CONFLICT *Clap* (Lex Bosch)
-<<<<<<< HEAD
+*Clap* MERGE CONFLICT *Clap* (Lex Bosch)
+Joshua Koopmans
 
 Carlijn Fransen
 =======
