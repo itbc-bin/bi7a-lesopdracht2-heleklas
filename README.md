@@ -12,7 +12,7 @@ Sophie Hospel
 *Clap* MERGE CONFLICT *Clap* (Lex Bosch)
 *Clap* MERGE CONFLICT *Clap* (Lex Bosch)
 Joshua Koopmans
-
+Rick Schoenmaker
 Carlijn Fransen
 =======
 NOGMEERCONFLICTBITCH
