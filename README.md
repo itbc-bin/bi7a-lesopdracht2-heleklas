@@ -3,7 +3,7 @@ Bastiaan Brier
 Branch: Brian
 Cas van Rijbroek
 Master: Martijn
-Branch: ArielKomen
+Branch: Evander van Wolfswinkel
 Bram Bosch
 Teun Jakobs    
 Sil van Appeldoorn
