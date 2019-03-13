@@ -4,13 +4,16 @@ Branch: Brian
 Cas van Rijbroek
 Master: Martijn
 Branch: ArielKomen
+<<<<<<< HEAD
 Bram Bosch
-Teun Jakobs    
 Sil van Appeldoorn
+
 Anne Manders
+=======
+Teun Jakobs
+>>>>>>> tjakobs
 *Clap* MERGE CONFLICT *Clap* (Lex Bosch)
-*Clap* MERGE CONFLICT *Clap* (Lex Bosch)
-Joshua Koopmans
+<<<<<<< HEAD
 
 Carlijn Fransen
 =======
