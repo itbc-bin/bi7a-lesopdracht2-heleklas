@@ -5,6 +5,7 @@ Master: Martijn
 Branch: ArielKomen
 Bram Bosch
 
+Anne Manders
 *Clap* MERGE CONFLICT *Clap* (Lex Bosch)
 NOGMEERCONFLICTBITCH
 
