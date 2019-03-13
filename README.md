@@ -1,11 +1,10 @@
 # bi7a-lesopdracht2-heleklas
 Bastiaan Brier
+Valerie Verhalle probeert een merge uit te voeren.
 
 Ariel
 Branch: Brian
 Cas van Rijbroek
-Master: Martijn
-Branch: ArielKomen
 Bram Bosch
 Teun Jakobs    
 Sil van Appeldoorn
