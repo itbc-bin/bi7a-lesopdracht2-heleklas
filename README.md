@@ -1,5 +1,7 @@
 # bi7a-lesopdracht2-heleklas
 Bastiaan Brier
+
+Ariel
 Branch: Brian
 Cas van Rijbroek
 Master: Martijn
