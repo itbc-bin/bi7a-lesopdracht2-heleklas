@@ -1,2 +1,2 @@
 # bi7a-lesopdracht2-heleklas
-ValerieVerhalle
+Valerie Verhalle probeert een merge uit te voeren.
