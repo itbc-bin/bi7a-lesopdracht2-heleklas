@@ -2,9 +2,10 @@
 Bastiaan Brier
 Branch: Brian
 Cas van Rijbroek
-Meester: Martijn
-Branch: ArielKomen 
-
+Master: Martijn
+Branch: ArielKomen
+Bram Bosch
+Sil van Appeldoorn
 
 Anne Manders
 *Clap* MERGE CONFLICT *Clap* (Lex Bosch)
