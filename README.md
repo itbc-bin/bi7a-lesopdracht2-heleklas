@@ -8,6 +8,7 @@ Bram Bosch
 Teun Jakobs    
 Sil van Appeldoorn
 Anne Manders
+Sophie Hospel
 *Clap* MERGE CONFLICT *Clap* (Lex Bosch)
 *Clap* MERGE CONFLICT *Clap* (Lex Bosch)
 Joshua Koopmans
