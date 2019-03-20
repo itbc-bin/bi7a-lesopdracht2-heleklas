@@ -7,7 +7,7 @@ Ariel
 Branch: Brian
 Cas van Rijbroek
 <<<<<<< HEAD
-Master: Martijn
+Master: Liebrand
 Branch: Evander van Wolfswinkel
 =======
 >>>>>>> 14e9e7abf42489fa26e02a337509eea3949e69f0
@@ -26,6 +26,5 @@ NOGMEERCONFLICTBITCH
 Carleen Rossing
 
 
-Eva 
+Eva Overbeek
 >>>>>>> cc4207f1d3f9ec7c82ef1e9786556c5f039d9d61
-Stephan Gui
