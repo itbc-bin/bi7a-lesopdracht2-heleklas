@@ -2,11 +2,12 @@
 # bi7a-lesopdracht2-heleklas
 Bastiaan Brier
 Valerie Verhalle probeert een merge uit te voeren.
-
 Ariel
 Branch: Brian
 Cas van Rijbroek
 <<<<<<< HEAD
+Elco van Rijswijk
+oke kijken of het werkt
 Master: Liebrand
 Branch: Evander van Wolfswinkel
 =======
